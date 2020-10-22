@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/emptyboat1995/gungun/issues"
   },
-  "homepage": "https://github.com/emptyboat1995/gungun#readme"
+  "homepage": "https://github.com/emptyboat1995/gungun#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
